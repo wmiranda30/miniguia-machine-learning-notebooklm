@@ -18,20 +18,20 @@ Os principais objetivos de estudo foram:
 
 
 ## 📚 Curadoria de Fontes
-
-Foram selecionadas cinco fontes no NotebookLM relacionadas ao tema do projeto.
+Foram selecionadas quatro fontes no NotebookLM relacionadas ao tema do projeto.
 
 Entre os materiais utilizados estão:
 
-1. **Mod3 Fundamentos de Machine Learning.pdf**
-2. **Estudo e Aplicação de Big Data e Machine Learning em Ciência de Dados**
-3. **Análise e Visualização de Dados para Machine Learning e Ciência de Dados**
-4. **Uso da Inteligência Artificial e Análise Preditiva**
-5. **Tomada de Decisão Algorítmica: Desafios Éticos**
+1. [Análise e Visualização de Dados para ML e Ciência de Dados](https://diegonogare.net/2024/01/analise-e-visualizacao-de-dados-para-ml-e-ciencia-de-dados/)
+
+2. [Estudo e Aplicação de Big Data e Machine Learning em Ciência de Dados](https://portal.ifba.edu.br/santoantonio/pesquisa/arquivos/ProjetoESTUDOEAPLICAODEBIGDATAEMACHINELEARNINGEMCINCIADEDADOS2.pdf)
+
+3. [Análise de Dados em Linguagem R — Fundamentos de Machine Learning](https://repositorio.enap.gov.br/server/api/core/bitstreams/eef97893-1eda-4b04-9a3e-590ff253a62d/content)
+
+4. [Material em PDF da FIEG](https://www.fieg.com.br/portais/files/48f72027-b5fd-4717-b93c-188757157256.pdf?contentDisposition=inline)
 
 As fontes foram utilizadas no NotebookLM para fundamentar as respostas e permitir que os conteúdos fossem estudados a partir de materiais selecionados previamente.
 
-> Os links das fontes serão adicionados ao repositório após a conferência dos materiais utilizados no NotebookLM.
 
 
 ## 🤖 Engenharia de Prompts
